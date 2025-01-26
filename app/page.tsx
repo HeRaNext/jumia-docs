@@ -4,8 +4,8 @@ import Link from 'next/link';
 import React, { useState } from 'react';
 
 interface VideoItem {
-  id: string; // YouTube video ID
-  text: string; // Video title or description
+  id: string;
+  text: string;
 }
 
 const items: VideoItem[] = [
@@ -87,7 +87,7 @@ function HomePage() {
               height={300}
               src={`https://i.ytimg.com/vi/${item.id}/mqdefault.jpg`} 
               alt={item.text}
-              className=''
+              className="w-full h-min"
             />
             <p className='p-2 leading-none text-base line-clamp-2'>{item.text}</p>
           </div>
