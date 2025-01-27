@@ -1,4 +1,5 @@
 # Jumia Similar script in Next.js || Jumia Clone Script
+<img src="https://www.cs-cart.com/images/companies/1/ecommerce%20article%20images/Jumia.png" height="auto" alt="Image"/>
 
 A comprehensive e-commerce solution inspired by [Jumia Kenya](https://www.jumia.co.ke/), designed to empower businesses with a robust and scalable online marketplace platform.
 
@@ -42,5 +43,23 @@ A comprehensive e-commerce solution inspired by [Jumia Kenya](https://www.jumia.
 
 - **Image Management**: Cloudinary
 
+## Why Choose Our Platform?
+
+- **Comprehensive Solution**: A one-stop solution encompassing all essential features for a successful e-commerce platform.
+
+- **Customization**: Highly customizable to meet the unique needs of your business.
+
+- **Scalability**: Designed to grow with your business, handling increasing traffic and expanding product catalogs with ease.
+
+- **Security**: Implements industry-standard security practices to protect your business and customer data.
+
 ## Conclusion
 Our e-commerce platform is the ideal solution for businesses aiming to establish or enhance their online presence. With a feature-rich, secure, and scalable design, it provides all the tools necessary to succeed in the competitive e-commerce landscape.
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the **Vercel Platform** from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.0
+
+Contact information [WhatsApp](https://wa.me/8801781077094)
